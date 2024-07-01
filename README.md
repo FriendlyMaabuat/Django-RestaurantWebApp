@@ -12,8 +12,8 @@ This is a Django web application for displaying a restaurant's menu. The app all
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/restaurant-menu-app.git
-    cd restaurant-menu-app
+    git clone https://github.com/FriendlyMaabuat/Django-RestaurantWebApp
+    cd Django-RestaurantWebApp
     ```
 
 2. Create a virtual environment and activate it:
